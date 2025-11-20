@@ -26,6 +26,10 @@ Currently working on: <strong>Cyber Security</strong> & <strong>Mobile Applicati
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" />
 <img width="10" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" />
+<img width="10" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" />
+<img width="10" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" />
 
 <!-- Frontend -->
 <img width="10" />
@@ -77,6 +81,3 @@ Currently working on: <strong>Cyber Security</strong> & <strong>Mobile Applicati
   <img src="https://github-readme-stats.vercel.app/api?username=muteeb123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muteeb123&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
-
----
-
