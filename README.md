@@ -1,7 +1,7 @@
 <h1 align="left">Hey, What's up?</h1>
 
 <p align="left">
-My name is <strong>Muhammad Muteeb</strong>, and I'm passionate about building modern web experiences, desktop and mobile applications, and exploring creative tech like UI animations and interactive interfaces.
+My name is Muhammad Muteeb, and I'm passionate about building modern web experiences, desktop and mobile applications, and exploring creative tech like UI animations and interactive interfaces.
 </p>
 
 ---
@@ -9,9 +9,9 @@ My name is <strong>Muhammad Muteeb</strong>, and I'm passionate about building m
 <h2 align="left">About me</h2>
 
 <p align="left">
-Writing code that sometimes works since <strong>2022</strong> <br>
+Writing code that sometimes works since 2022 <br>
 4th-year BS Software Engineering student at FAST-NUCES <br>
-Currently working on: <strong>Cyber Security</strong> & <strong>Mobile Application Development</strong>
+Currently working on: Cyber Security & Mobile Application Development
 </p>
 
 ---
@@ -27,7 +27,11 @@ Currently working on: <strong>Cyber Security</strong> & <strong>Mobile Applicati
 <img width="10" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" />
 <img width="10" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" />
+<img width="10" />
 <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" />
+<img width="10" />
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" />
 <img width="10" />
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" />
 
@@ -83,12 +87,3 @@ Currently working on: <strong>Cyber Security</strong> & <strong>Mobile Applicati
 </div>
 
 ---
-
-<h2 align="center">🏆 Top Repositories</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muteeb123&repo=REPO1&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muteeb123&repo=REPO2&theme=dracula" />
-</div>
-
-<p align="center">Replace <strong>REPO1</strong> and <strong>REPO2</strong> with your actual repository names.</p>
