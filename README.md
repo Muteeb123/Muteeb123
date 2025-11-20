@@ -10,7 +10,7 @@ My name is Muhammad Muteeb, and I'm passionate about building modern web experie
 
 <ul>
   <li>Writing code that sometimes works since 2022</li>
-  <li>4th-year BS Software Engineering student at FAST-NUCES</li>
+  <li>4th-year BS Software Engineering student at FAST-NUCES Lahore</li>
   <li>Currently working on Cyber Security & Mobile Application Development</li>
 </ul>
 
