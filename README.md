@@ -80,11 +80,3 @@ Currently working on: <strong>Cyber Security</strong> & <strong>Mobile Applicati
 
 ---
 
-<h2 align="center">🏆 Top Repositories</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muteeb123&repo=REPO1&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muteeb123&repo=REPO2&theme=dracula" />
-</div>
-
-<p align="center">Replace <strong>REPO1</strong> and <strong>REPO2</strong> with your actual repository names.</p>
