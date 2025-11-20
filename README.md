@@ -8,11 +8,11 @@ My name is Muhammad Muteeb, and I'm passionate about building modern web experie
 
 <h2 align="left">About me</h2>
 
-<p align="left">
-Writing code that sometimes works since 2022 <br>
-4th-year BS Software Engineering student at FAST-NUCES <br>
-Currently working on: Cyber Security & Mobile Application Development
-</p>
+<ul>
+  <li>Writing code that sometimes works since 2022</li>
+  <li>4th-year BS Software Engineering student at FAST-NUCES</li>
+  <li>Currently working on Cyber Security & Mobile Application Development</li>
+</ul>
 
 ---
 
